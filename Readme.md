@@ -10,7 +10,7 @@
 <h2 align="left">👨‍💻 About Me</h2>
 
 <p align="left">
-  ✨ Creating bugs since 2024 <br>
+  ✨ Creating bugs since 2023 <br>
   📚 Currently learning Java, Python, Data Structures, and Web Development <br>
   🎯 Goal: Become a skilled software engineer with strong fundamentals <br>
   🎮 Fun fact: I enjoy anime and story-based games when I’m not coding
