@@ -69,4 +69,3 @@
 <p align="center">
   ⚡ Always curious. Always building. Always improving.
 </p>
-```
